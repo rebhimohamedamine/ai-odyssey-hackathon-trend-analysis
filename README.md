@@ -1,4 +1,4 @@
-# ai-odyssey-hackathon-trend-analysis
+
 # AI Odyssey Hackathon: Trend Analysis
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
