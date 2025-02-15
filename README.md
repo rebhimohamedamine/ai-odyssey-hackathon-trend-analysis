@@ -82,7 +82,7 @@ for tiktok analysis the code is genrated by a notebook so all the installation a
 - **Data Extraction**: Fetch new data from X (Twitter) using the `extractor.py` script.
 - **Preprocessing**: Clean and preprocess data using `pretreatment.py`. 
 - **Engagement Analysis**: Calculate engagement scores for tweets using `engagement_score.py`.
-- **Text Analysis**: Analyze tweet text for sentiment, word frequency, and more using `tweet_text_analysis.py`.
-- **Hashtag Analysis**: Identify and visualize popular hashtags using `hashtag_analysis.py`.
+- **Text Analysis**: Analyze tweet text for sentiment, word frequency using `tweet_text_analysis.py`.
+- **Hashtag Analysis**: Identify  popular hashtags using `hashtag_analysis.py`.
 - **Tweet Generation**: Generate tweets using AI models with `tweeter_generation.py`.
-
+-**Dashboarding**:create a dashboard with `dashboard.py`
