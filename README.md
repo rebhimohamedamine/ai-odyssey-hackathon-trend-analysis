@@ -44,30 +44,36 @@ To set up the project locally, follow these steps:
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rebhimohamedamine/ai-odyssey-hackathon-trend-analysis.git
-   cd ai-odyssey-hackathon-trend-analysis
-2. install libraries
-    ```bash
-    pip install -r requirements.txt
-3.Set up environment variables:
+# AI Odyssey Hackathon - Trend Analysis
 
- Create a .env file in the root directory.
+## Setup Instructions
 
- Add your Twitter API credentials (if applicable):
- 
-  TWITTER_API_KEY=your_api_key
-  
-  TWITTER_API_SECRET_KEY=your_api_secret_key
-  
-  TWITTER_ACCESS_TOKEN=your_access_token
-  
-  TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+### 1. Clone the Repository
+```bash
+git clone https://github.com/rebhimohamedamine/ai-odyssey-hackathon-trend-analysis.git
+cd ai-odyssey-hackathon-trend-analysis
+```
 
-  4. run the program
-      for Tiktok the submitted file is a notebook that is already runned but for x the project size excceds github capabilities i will be sharing a link to a drive zipped file where you can find the work
-     
+### 2. Install Required Libraries
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Set Up Environment Variables
+1. Create a `.env` file in the root directory.
+2. Add your Twitter API credentials (if applicable):
+
+```
+TWITTER_API_KEY=your_api_key
+TWITTER_API_SECRET_KEY=your_api_secret_key
+TWITTER_ACCESS_TOKEN=your_access_token
+TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+```
+
+### 4. Run the Program
+- **TikTok Analysis:** The submitted file is a Jupyter Notebook that has already been executed.
+- **X (Twitter) Analysis:** Due to project size limitations on GitHub, the full project is available as a zipped file. A link to the file will be shared via Google Drive.
+
+For any issues, feel free to reach out!
 
   
