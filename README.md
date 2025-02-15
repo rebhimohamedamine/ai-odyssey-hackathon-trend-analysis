@@ -66,4 +66,8 @@ To set up the project locally, follow these steps:
   
   TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
 
+  4. run the program
+      for Tiktok the submitted file is a notebook that is already runned but for x the project size excceds github capabilities i will be sharing a link to a drive zipped file where you can find the work
+     
+
   
