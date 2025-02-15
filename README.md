@@ -75,6 +75,14 @@ TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
 - **X (Twitter) Analysis:** Due to project size limitations on GitHub, the full project is available as a zipped file. A link to the file will be shared via Google Drive.
 
 For any issues, feel free to reach out!
-for tiktok analysis the code is genrated by a notebook so all the installation are already done .Moreover , the code is accompaigned with comments explainning the steps and the outputs  
+for tiktok analysis the code is genrated by a notebook so all the installation are already done .Moreover , the code is accompaigned with comments explainning the steps and the outputs
 
-for the x analysis 
+
+**X_analysis**
+- **Data Extraction**: Fetch new data from X (Twitter) using the `extractor.py` script.
+- **Preprocessing**: Clean and preprocess data using `pretreatment.py`. 
+- **Engagement Analysis**: Calculate engagement scores for tweets using `engagement_score.py`.
+- **Text Analysis**: Analyze tweet text for sentiment, word frequency, and more using `tweet_text_analysis.py`.
+- **Hashtag Analysis**: Identify and visualize popular hashtags using `hashtag_analysis.py`.
+- **Tweet Generation**: Generate tweets using AI models with `tweeter_generation.py`.
+
