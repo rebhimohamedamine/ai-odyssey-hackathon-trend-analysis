@@ -49,3 +49,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/rebhimohamedamine/ai-odyssey-hackathon-trend-analysis.git
    cd ai-odyssey-hackathon-trend-analysis
+2. install libraries
+    ```bash
+    pip install -r requirements.txt
+   
