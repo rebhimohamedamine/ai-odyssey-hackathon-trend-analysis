@@ -6,7 +6,7 @@
 ![Dash](https://img.shields.io/badge/Dash-2.0%2B-orange)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-green)
 
-Welcome to the **AI Odyssey Hackathon: Trend Analysis** project! This repository contains the code and resources for analyzing and visualizing trends from Twitter data. The project leverages Python, Dash, and Plotly to create an interactive dashboard for exploring real-time trends and insights.
+Welcome to the **AI Odyssey Hackathon: Trend Analysis** project! This repository contains the code and resources for analyzing and visualizing trends from X and Tiktok data. The project leverages Python, Dash, and Plotly to create an interactive dashboard for exploring real-time trends and insights.
 
 ---
 
