@@ -75,5 +75,6 @@ TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
 - **X (Twitter) Analysis:** Due to project size limitations on GitHub, the full project is available as a zipped file. A link to the file will be shared via Google Drive.
 
 For any issues, feel free to reach out!
+for tiktok analysis the code is genrated by a notebook so all the installation are already done .Moreover , the code is accompaigned with comments explainning the steps and the outputs  
 
-  
+for the x analysis 
